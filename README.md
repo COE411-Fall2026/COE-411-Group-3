@@ -1,4 +1,4 @@
-# STM32 Lab for the semester -Fall 2026-
+# STM32 Lab for the semester - Fall 2026
 
 ---
 Mohamed Alzarooni: b00097439
